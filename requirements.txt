@@ -6,6 +6,7 @@ South==0.7.3
 django-sentry==1.13.5
 MySQL-python==1.2.3
 django-admin-tools
+django-extensions
 python-memcached==1.48
 -e git+git://github.com/playfire/django-cache-toolbox.git@5c944844c45c3e81c5cc205b149c2c17d7868229#egg=cache_toolbox
 -e git+git://github.com/rootart/django-rosetta.git@a8e7cff507d16ff2dd1950cd471fd2a32f941059#egg=rosetta
