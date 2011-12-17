@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-26 19:56+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: admin_tools_dashboard.py:58
+msgid "Quick links"
+msgstr ""
+
+#: admin_tools_dashboard.py:64
+msgid "Return to site"
+msgstr ""
+
+#: admin_tools_dashboard.py:65
+msgid "Change password"
+msgstr ""
+
+#: admin_tools_dashboard.py:67
+msgid "Log out"
+msgstr ""
+
+#: admin_tools_dashboard.py:72
+msgid "Birday"
+msgstr ""
+
+#: admin_tools_dashboard.py:75
+msgid "Find patient"
+msgstr ""
+
+#: admin_tools_dashboard.py:78 admin_tools_menu.py:25
+msgid "Applications"
+msgstr ""
+
+#: admin_tools_dashboard.py:83 admin_tools_dashboard.py:101
+msgid "Recent Actions"
+msgstr ""
+
+#: admin_tools_menu.py:22
+msgid "Dashboard"
+msgstr ""
+
+#: admin_tools_menu.py:29
+msgid "Administration"
+msgstr ""
+
+#: admin_tools_menu.py:32
+msgid "Add patient"
+msgstr ""
+
+#: apps/card/models.py:10
+msgid "Card code"
+msgstr ""
+
+#: apps/card/models.py:11
+msgid "First name"
+msgstr ""
+
+#: apps/card/models.py:13
+msgid "Second name"
+msgstr ""
+
+#: apps/card/models.py:15
+msgid "Last name"
+msgstr ""
+
+#: apps/card/models.py:18
+msgid "Oblast"
+msgstr ""
+
+#: apps/card/models.py:19
+msgid "Address"
+msgstr ""
+
+#: apps/card/models.py:22
+msgid "Post code"
+msgstr ""
+
+#: apps/card/models.py:24
+msgid "Work phone"
+msgstr ""
+
+#: apps/card/models.py:26
+msgid "Internal phone"
+msgstr ""
+
+#: apps/card/models.py:28
+msgid "Home phone"
+msgstr ""
+
+#: apps/card/models.py:30
+msgid "Mobile phone"
+msgstr ""
+
+#: apps/card/models.py:32
+msgid "Email"
+msgstr ""
+
+#: apps/card/models.py:33
+msgid "Second email"
+msgstr ""
+
+#: apps/card/models.py:38 apps/card/models.py:60
+msgid "Note"
+msgstr ""
+
+#: apps/card/models.py:39
+msgid "Staff code"
+msgstr ""
+
+#: apps/card/models.py:45
+msgid "Patient card"
+msgstr ""
+
+#: apps/card/models.py:46
+msgid "Patients cards"
+msgstr ""
+
+#: apps/card/models.py:58
+msgid "patient"
+msgstr ""
+
+#: apps/card/models.py:63
+msgid "Visit"
+msgstr ""
+
+#: apps/card/models.py:64
+msgid "Visits"
+msgstr ""
+
+#: apps/region/models.py:5
+msgid "Title"
+msgstr ""
+
+#: apps/region/models.py:8
+msgid "Region"
+msgstr ""
+
+#: apps/region/models.py:9
+msgid "Regions"
+msgstr ""
+
+#: apps/region/models.py:17 apps/region/models.py:22
+msgid "City"
+msgstr ""
+
+#: apps/region/models.py:23
+msgid "Cities"
+msgstr ""
+
+#: templates/birthday.html:7
+msgid "Today is a birthday for:"
+msgstr ""
+
+#: templates/birthday.html:15
+msgid "No people that have birthday today. "
+msgstr ""
+
+#: templates/search-patients.html:8
+msgid "search"
+msgstr ""

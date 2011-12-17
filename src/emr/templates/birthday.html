@@ -1,0 +1,19 @@
+{% extends "admin_tools/dashboard/module.html" %}
+{% load i18n %}
+{% block module_content %}
+  <div class="dashboard-module-content">
+    <div class="block-inner">
+      {% if request.today %}
+        {% trans "Today is a birthday for:"  %}
+        <ul>
+            {% for item in request.today %}
+                <li><a href="/cards/card/usercard/{{ item.id }}">{{ item }}<em>{{ item.birthday }}</em></a></li>
+            {% endfor  %}
+        </ul>
+       {% else %}
+       
+       {% trans "No people that have birthday today. " %}
+       {% endif %}
+    </div>
+  </div>
+{% endblock %}

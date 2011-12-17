@@ -1,0 +1,8 @@
+.svn/
+*.mo
+src/emr/static/*
+src/emr/.idea/
+src/emr/media/category
+local_settings.py
+settings_local.py
+*.pyc

@@ -1,0 +1,4237 @@
+[
+    {
+        "pk": 1, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Автономная Республика Крым"
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Винницкая область"
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Волынская область"
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Днепропетровская область"
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Донецкая область"
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Житомирская область"
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Закарпатская область"
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Запорожская область"
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Ивано-Франковская область"
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Киевская область"
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Кировоградская область"
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Луганская область"
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Львовская область"
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Николаевская область"
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Одесская область"
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Полтавская область"
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Ровенская область"
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Сумская область"
+        }
+    }, 
+    {
+        "pk": 19, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Тернопольская область"
+        }
+    }, 
+    {
+        "pk": 20, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Харьковская область"
+        }
+    }, 
+    {
+        "pk": 21, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Херсонская область"
+        }
+    }, 
+    {
+        "pk": 22, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Хмельницкая область"
+        }
+    }, 
+    {
+        "pk": 23, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Черкасская область"
+        }
+    }, 
+    {
+        "pk": 24, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Черниговская область"
+        }
+    }, 
+    {
+        "pk": 25, 
+        "model": "region.region", 
+        "fields": {
+            "region": "Черновицкая область"
+        }
+    }, 
+    {
+        "pk": 1, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Алупка", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Алушта", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Армянск", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бахчисарай", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Белогорск", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Джанкой", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Евпатория", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Керчь", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Красноперекопск", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Саки", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Симферополь", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Старый Крым", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 13, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Судак", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 14, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Феодосия", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 15, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Щёлкино", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 16, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ялта", 
+            "region": 1, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 17, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бар", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 18, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бершадь", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 19, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Винница", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 20, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Гайсин", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 21, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Жмеринка", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 22, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Казатин", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 23, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Калиновка", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 24, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ладыжин", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 25, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Могилёв-Подольский", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 26, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Немиров", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 27, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Погребище", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 28, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тульчин", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 29, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Хмельник", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 30, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Шаргород", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 31, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ямполь", 
+            "region": 2, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 32, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Берестечко", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 33, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Владимир-Волынский", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 34, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Горохов", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 35, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Камень-Каширский", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 36, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Киверцы", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 37, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ковель", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 38, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Луцк", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 39, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Любомль", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 40, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Нововолынск", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 41, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Рожище", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 42, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Устилуг", 
+            "region": 3, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 43, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Апостолово", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 44, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Верхнеднепровск", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 45, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Вольногорск", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 46, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Днепродзержинск", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 47, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Днепропетровск", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 48, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Жёлтые Воды", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 49, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кривой Рог", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 50, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Марганец", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 51, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Никополь", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 52, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новомосковск", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 53, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Орджоникидзе", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 54, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Павлоград", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 55, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Перещепино", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 56, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Першотравенск", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 57, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Подгородное", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 58, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Пятихатки", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 59, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Синельниково", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 60, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Терновка", 
+            "region": 4, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 61, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Авдеевка", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 62, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Артёмовск", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 63, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Волноваха", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 64, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Горловка", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 65, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дзержинск", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 66, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дебальцево", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 67, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Димитров", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 68, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Доброполье", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 69, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Докучаевск", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 70, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Донецк", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 71, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дружковка", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 72, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Енакиево", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 73, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ждановка", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 74, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Зугрэс", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 75, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кировское", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 76, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Краматорск", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 77, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Красноармейск", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 78, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Красный Лиман", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 79, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Константиновка", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 80, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Мариуполь", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 81, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Макеевка", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 82, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новогродовка", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 83, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Селидово", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 84, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Славянск", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 85, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Снежное", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 86, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Соледар", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 87, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Торез", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 88, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Угледар", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 89, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Харцызск", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 90, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Шахтёрск", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 91, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ясиноватая", 
+            "region": 5, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 92, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Андрушёвка", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 93, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Барановка", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 94, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бердичев", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 95, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Житомир", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 96, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Коростень", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 97, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Коростышев", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 98, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Малин", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 99, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новоград-Волынский", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 100, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Овруч", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 101, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Радомышль", 
+            "region": 6, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 102, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Берегово", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 103, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Виноградов", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 104, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Иршава", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 105, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Мукачево", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 106, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Перечин", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 107, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Рахов", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 108, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Свалява", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 109, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тячев", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 110, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ужгород", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 111, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Хуст", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 112, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Чоп", 
+            "region": 7, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 113, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бердянск", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 114, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Васильевка", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 115, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Вольнянск", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 116, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Гуляйполе", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 117, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Днепрорудное", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 118, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Запорожье", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 119, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Каменка-Днепровская", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 120, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Мелитополь", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 121, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Молочанск", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 122, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Орехов", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 123, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Пологи", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 124, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Приморск", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 125, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Токмак", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 126, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Энергодар", 
+            "region": 8, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 127, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Болехов", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 128, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бурштын", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 129, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Галич", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 130, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Городенка", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 131, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Долина", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 132, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ивано-Франковск", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 133, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Калуш", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 134, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Коломыя", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 135, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Косов", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 136, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Надворная", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 137, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Рогатин", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 138, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Снятын", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 139, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тысменица", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 140, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тлумач", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 141, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Яремче", 
+            "region": 9, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 142, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Белая Церковь", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 143, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Березань", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 144, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Богуслав", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 145, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Борисполь", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 146, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Боярка", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 147, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бровары", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 148, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Буча", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 149, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Васильков", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 150, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Вишнёвое", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 151, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Вышгород", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 152, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ирпень", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 153, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кагарлык", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 154, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Киев", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 155, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Мироновка", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 156, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Обухов", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 157, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Переяслав-Хмельницкий", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 158, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Припять", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 159, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ржищев", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 160, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Сквира", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 161, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Славутич", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 162, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тараща", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 163, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тетиев", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 164, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Узин", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 165, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Украинка", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 166, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Фастов", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 167, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Чернобыль", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 168, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Яготин", 
+            "region": 10, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 169, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Александрия", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 170, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бобринец", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 171, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Гайворон", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 172, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Долинская", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 173, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Знаменка", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 174, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кировоград", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 175, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Малая Виска", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 176, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новомиргород", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 177, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новоукраинка", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 178, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Светловодск", 
+            "region": 11, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 179, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Александровск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 180, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Алмазная", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 181, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Алчевск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 182, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Антрацит", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 183, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Брянка", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 184, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Вахрушево", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 185, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Горное", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 186, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Зимогорье", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 187, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Золотое", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 188, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Зоринск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 189, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Краснодон", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 190, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Красный Луч", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 191, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Лисичанск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 192, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Луганск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 193, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Лутугино", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 194, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Миусинск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 195, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Молодогвардейск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 196, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новодружеск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 197, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новопсков", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 198, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Первомайск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 199, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Перевальск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 200, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Петровское", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 201, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Попасная", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 202, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Приволье", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 203, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ровеньки", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 204, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Рубежное", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 205, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Сватово", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 206, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Свердловск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 207, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Северодонецк", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 208, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Старобельск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 209, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Стаханов", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 210, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Суходольск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 211, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Счастье", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 212, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Теплогорск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 213, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Червонопартизанск", 
+            "region": 12, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 214, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Белз", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 215, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бобрка", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 216, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Борислав", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 217, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Броды", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 218, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Буск", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 219, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Великие Мосты", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 220, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Глиняны", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 221, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Городок", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 222, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Добромиль", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 223, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дрогобыч", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 224, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дубляны", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 225, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Жидачов", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 226, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Жолква", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 227, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Золочев", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 228, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Каменка-Бугская", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 229, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Львов", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 230, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Мостиска", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 231, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Перемышляны", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 232, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Пустомыты", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 233, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Рава-Русская", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 234, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Радехов", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 235, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Рудки", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 236, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Самбор", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 237, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Сколе", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 238, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Сокаль", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 239, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Старый Самбор", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 240, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Стрый", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 241, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Трускавец", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 242, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Угнев", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 243, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Хыров", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 244, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Червоноград", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 245, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Яворов", 
+            "region": 13, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 246, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Баштанка", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 247, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Вознесенск", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 248, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Николаев", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 249, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новая Одесса", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 250, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новый Буг", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 251, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Очаков", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 252, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Первомайск", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 253, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Снигирёвка", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 254, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Южноукраинск", 
+            "region": 14, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 255, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ананьев", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 256, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Арциз", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 257, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Балта", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 258, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Белгород-Днестровский", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 259, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Болград", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 260, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Измаил", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 261, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ильичёвск", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 262, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Килия", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 263, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кодыма", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 264, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Котовск", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 265, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Одесса", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 266, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Татарбунары", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 267, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Теплодар", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 268, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Южное", 
+            "region": 15, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 269, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Гадяч", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 270, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Глобино", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 271, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Гребёнка", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 272, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Зеньков", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 273, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Карловка", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 274, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кременчуг", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 275, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кобеляки", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 276, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Комсомольск", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 277, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Лохвица", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 278, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Лубны", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 279, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Миргород", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 280, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Пирятин", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 281, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Полтава", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 282, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Хорол", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 283, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Червонозаводское", 
+            "region": 16, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 284, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Березне", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 285, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дубно", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 286, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дубровица", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 287, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Здолбунов", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 288, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Корец", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 289, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Костополь", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 290, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кузнецовск", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 291, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Острог", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 292, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Радивилов", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 293, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ровно", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 294, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Сарны", 
+            "region": 17, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 295, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ахтырка", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 296, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Белополье", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 297, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бурынь", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 298, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Глухов", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 299, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кролевец", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 300, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Конотоп", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 301, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Лебедин", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 302, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Путивль", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 303, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ромны", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 304, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Середина-Буда", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 305, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Сумы", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 306, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тростянец", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 307, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Шостка", 
+            "region": 18, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 308, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бережаны", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 309, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Борщёв", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 310, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бучач", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 311, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Залещики", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 312, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Збараж", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 313, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Зборов", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 314, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кременец", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 315, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Лановцы", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 316, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Монастыриска", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 317, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Подволочиск", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 318, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Подгайцы", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 319, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Почаев", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 320, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Скалат", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 321, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тернополь", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 322, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Теребовля", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 323, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Чортков", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 324, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Шумск", 
+            "region": 19, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 325, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Балаклея", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 326, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Барвенково", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 327, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Богодухов", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 328, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Валки", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 329, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Великий Бурлук", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 330, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Волчанск", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 331, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дергачи", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 332, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Змиев", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 333, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Изюм", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 334, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Красноград", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 335, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Купянск", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 336, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Лозовая", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 337, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Люботин", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 338, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Мерефа", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 339, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Первомайский", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 340, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Харьков", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 341, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Чугуев", 
+            "region": 20, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 342, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Берислав", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 343, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Геническ", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 344, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Голая Пристань", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 345, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Каховка", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 346, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новая Каховка", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 347, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Скадовск", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 348, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Таврийск", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 349, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Херсон", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 350, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Цюрупинск", 
+            "region": 21, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 351, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Волочиск", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 352, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Городок", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 353, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Деражня", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 354, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Дунаевцы", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 355, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Изяслав", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 356, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Каменец-Подольский", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 357, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Красилов", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 358, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Нетешин", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 359, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Полонное", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 360, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Славута", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 361, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Староконстантинов", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 362, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Хмельницкий", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 363, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Шепетовка", 
+            "region": 22, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 364, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ватутино", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 365, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Городище", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 366, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Жашков", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 367, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Звенигородка", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 368, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Золотоноша", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 369, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Каменка", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 370, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Канев", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 371, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Корсунь-Шевченковский", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 372, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Монастырище", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 373, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Смела", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 374, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Тальное", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 375, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Умань", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 376, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Христиновка", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 377, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Черкассы", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 378, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Чигирин", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 379, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Шпола", 
+            "region": 23, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 380, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бахмач", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 381, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Бобровица", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 382, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Борзна", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 383, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Городня", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 384, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Десна", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 385, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Ичня", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 386, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Корюковка", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 387, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Мена", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 388, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Нежин", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 389, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новгород-Северский", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 390, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Носовка", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 391, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Прилуки", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 392, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Седнев", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 393, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Семёновка", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 394, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Чернигов", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 395, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Щорс", 
+            "region": 24, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 396, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Вашковцы", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 397, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Вижница", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 398, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Герца", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 399, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Заставна", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 400, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Кицмань", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 401, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новоднестровск", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 402, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Новоселица", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 403, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Сокиряны", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 404, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Сторожинец", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 405, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Хотин", 
+            "region": 25, 
+            "lng": null
+        }
+    }, 
+    {
+        "pk": 406, 
+        "model": "region.city", 
+        "fields": {
+            "lat": null, 
+            "city": "Черновцы", 
+            "region": 25, 
+            "lng": null
+        }
+    }
+]

@@ -1,0 +1,12 @@
+{% extends "admin_tools/dashboard/module.html" %}
+{% load i18n %}
+{% block module_content %}
+  <div class="dashboard-module-content">
+      <div class="search-form">
+          <form action="/cards/card/usercard/" method="get" accept-charset="utf-8">
+              <input type="text" name="q" value="" id="q">
+              <input type="submit" value="{% trans "search" %}">
+          </form>
+      </div>
+  </div>
+{% endblock %}
