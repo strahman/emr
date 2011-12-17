@@ -1,0 +1,11 @@
+DEBUG=True
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'emr_dev',
+        'USER': 'root',
+        'PASSWORD': 'rootart',
+        'HOST': '',
+        'PORT': '',
+    }
+}
